@@ -1,3 +1,5 @@
+# How to build
+
 ```Bash
 pdflatex report.tex
 ```
@@ -7,5 +9,7 @@ biber report
 ```
 
 ```Bash
-pdflatex report.tex
+pdflatex report.tex 
 ```
+
+> Maybe several times (don't know what does it depend on)
