@@ -1,15 +1,4 @@
-# How to build
+# Бакалавриат
 
-```Bash
-pdflatex report.tex
-```
-
-```Bash
-biber report
-```
-
-```Bash
-pdflatex report.tex 
-```
-
-> Maybe several times (don't know what does it depend on)
+* [Семестр 5](Bachelor/semester-5)
+* [Семестр 6](Bachelor/semester-6)
