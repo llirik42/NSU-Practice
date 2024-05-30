@@ -1,0 +1,14 @@
+\input{settings.tex}
+
+\begin{document}
+	\thispagestyle{empty}
+    \includepdf[pages=-]{title_page.pdf}
+	
+	{\hypersetup{hidelinks}\tableofcontents}
+	
+	\newpage
+	
+	\pagestyle{plain}
+	
+	\input{content.tex}
+\end{document}
