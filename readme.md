@@ -5,4 +5,4 @@
 * [Семестр 5](Bachelor/semester-5)
 * [Семестр 6](Bachelor/semester-6)
 * [Семестр 7](Bachelor/semester-7)
-* [Семестр 7](Bachelor/semester-8)
+* [Семестр 8](Bachelor/semester-8)
